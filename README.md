@@ -1,3 +1,9 @@
+### Hi there, I'm Alparslan UĞURER
+## I'm a Husband, Father, Cloud Engineer and DevOps Engineer
+  - Currently I'm on a journey to become an IT Professional. I am now increasing my experience with AWS cloud services & DevOps tools.
+  - Currently I'm a DevOps Engineer Student at Clarusway
+  - 2023 Goals : First of all, my goal is to successfully complete my course at Clarusway. Afterwards, I want to make a career as a DevOps Engineer, I think I will be successful in this field in a short time thanks to my technical and soft skills.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alparslanu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@alparslanu6347) 
 
