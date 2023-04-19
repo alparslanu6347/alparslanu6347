@@ -3,8 +3,8 @@
   - I am currently a DevOps Engineer Student at Clarusway on the journey to become an IT Professional, expanding my experience with AWS cloud services and DevOps tools.
   - My first goal from 2023 goals is to make a career as a DevOps Engineer, I think I will be successful in this field in a short time thanks to my technical and soft skills.
   - I think that I will be accepted as a candidate who has adopted the principle of continuous learning and self-development, attaches importance to innovation and team spirit, and focuses on achieving success by working in a disciplined and efficient manner.
-- Hands-on and projects I did during my education at Clarusway:
-                                                                AWS: 40+ hands-on / 8 projects / 1 capstone project
+- Hands-on and projects I did during my education at Clarusway ==>>
+                                                                AWS: 40+ hands-on / 8 projects / 1 capstone project  ,  
                                                                 DevOps: 40+ hands-on / 5 projects / 1 capstone project
 
 ## 🌐 Socials:
