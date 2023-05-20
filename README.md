@@ -1,5 +1,5 @@
-## Hi there, I'm Alparslan UĞURER
-## I'm a Husband, Father, Cloud Engineer and DevOps Engineer
+# Hi there, I'm Alparslan UĞURER
+# I'm a Husband, Father, Cloud Engineer and DevOps Engineer
   # Currently I’m on a journey to become an IT Professional, expanding my experience with AWS cloud services and DevOps tools. My experiences at the Clarusway educational institution on the way to become an IT Professional, Hands-on and projects I did during my education at Clarusway:
   - AWS: 40+ hands-on / 8 projects / 1 capstone project
   - DevOps: 40+ hands-on / 5 projects / 1 capstone project
