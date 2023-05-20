@@ -1,11 +1,12 @@
 ### Hi there, I'm Alparslan UĞURER
 ## I'm a Husband, Father, Cloud Engineer and DevOps Engineer
-  - I am currently a DevOps Engineer Student at Clarusway on the journey to become an IT Professional, expanding my experience with AWS cloud services and DevOps tools.
-  - My first goal from 2023 goals is to make a career as a DevOps Engineer, I think I will be successful in this field in a short time thanks to my technical and soft skills.
-  - I think that I will be accepted as a candidate who has adopted the principle of continuous learning and self-development, attaches importance to innovation and team spirit, and focuses on achieving success by working in a disciplined and efficient manner.
-- Hands-on and projects I did during my education at Clarusway ==>>
-                                                                AWS: 40+ hands-on / 8 projects / 1 capstone project  ,  
-                                                                DevOps: 40+ hands-on / 5 projects / 1 capstone project
+  - Currently I’m on a journey to become an IT Professional, expanding my experience with AWS cloud services and DevOps tools.
+My experiences at the Clarusway educational institution on the way to become an IT Professional, Hands-on and projects I did during my education at Clarusway:
+          AWS: 40+ hands-on / 8 projects / 1 capstone project
+          DevOps: 40+ hands-on / 5 projects / 1 capstone project
+  - My first goal in 2023 is to make a career as a DevOps Engineer, I think I will be successful in this field in a short time thanks to my technical and soft skills.
+  - I have adopted the principle of continuous learning and self-development. I attach importance to innovation and team spirit, and focus on achieving success by working in a disciplined and efficient manner.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alparslanu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@alparslanu6347)
