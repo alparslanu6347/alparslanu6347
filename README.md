@@ -1,9 +1,8 @@
 # Hi there, I'm Alparslan UĞURER
-## I'm a Father, a Husband and a DevOps Engineer.
+## I'm a Father, a Husband and a Cloud & DevOps Engineer.
 ## My experiences (expanding my experience with AWS cloud services and DevOps tools) on the way to become an IT Professional, Hands-on and projects I did:
   - AWS: 40+ hands-on / 8 projects / 1 capstone project
   - DevOps: 40+ hands-on / 5 projects / 1 capstone project
-## My first goal in 2023 is to make a career as a DevOps Engineer, I think I will be successful in this field in a short time thanks to my technical and soft skills.
 ## I have adopted the principle of continuous learning and self-development. I attach importance to innovation and team spirit, and focus on achieving success by working in a disciplined and efficient manner.
 
 
@@ -23,4 +22,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alparslanu6347&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
