@@ -1,8 +1,5 @@
-# Hi there, I'm Alparslan UĞURER
-## I'm a Father, a Husband and a Cloud & DevOps Engineer.
-## My experiences (expanding my experience with AWS cloud services and DevOps tools) on the way to become an IT Professional, Hands-on and projects I did:
-  - AWS: 40+ hands-on / 8 projects / 1 capstone project
-  - DevOps: 40+ hands-on / 5 projects / 1 capstone project
+## Hello there! I'm Alparslan, a dedicated DevOps Engineer with a passion for exploring the boundless realms of technology. As someone deeply intrigued by the intersections of cloud computing and DevOps methodologies, I'm on an exciting journey to master these domains.
+## Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. I'm fascinated by the power of cloud technologies to revolutionize businesses and the efficiency that DevOps brings to the development lifecycle.
 ## I have adopted the principle of continuous learning and self-development. I attach importance to innovation and team spirit, and focus on achieving success by working in a disciplined and efficient manner.
 
 
