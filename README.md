@@ -1,5 +1,5 @@
-## Hello there! I'm Arrow, a dedicated DevOps Engineer with a passion for exploring the boundless realms of technology. As someone deeply intrigued by the intersections of cloud computing and DevOps methodologies, I'm on an exciting journey to master these domains.
-## Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. I'm fascinated by the power of cloud technologies to revolutionize businesses and the efficiency that DevOps brings to the development lifecycle.
+## Hello there! I'm Arrow, a dedicated DevOps Engineer with a passion for exploring the boundless realms of technology. I'm on an exciting journey to master the intersections of cloud computing and DevOps methodologies, which deeply intrigue me.
+## Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. The capacity of cloud technologies to reshape businesses, along with the streamlining of processes that DevOps offers, holds my keen interest.
 ## I have adopted the principle of continuous learning and self-development. I attach importance to innovation and team spirit, and focus on achieving success by working in a disciplined and efficient manner.
 
 
