@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
  
 
--  DevOps Engineer | 1xAWS Certified | Terraform | Docker | Kubernetes | Ansible | Jenkins | Linux | Slack | Scrum/Kanban | SQL | Python | Leadership | Innovation | Analytical Thinking | Problem-Solving | Agile | Management )
+-  DevOps Engineer | 1xAWS Certified | Terraform | Docker | Kubernetes | Ansible | Jenkins | Linux | Slack | Scrum/Kanban | SQL | Python | Leadership | Innovation | Analytical Thinking | Problem-Solving | Agile | Management
 -  I am happy to teach you what I know and eager to learn what you will offer
 -  Slowly and steadily, I'm trying to be better than yesterday😉
 - 🔭 I’m currently working on a mobile app
@@ -77,11 +77,3 @@ https://www.linkedin.com/in/alparslanu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alparslanu6347&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- ## 📈 Statistics -->
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alparslanu6347&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%" />&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alparslanu6347&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslanu6347&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>](url)  -->
-<!---
-**alparslanu6347/alparslanu6347** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
