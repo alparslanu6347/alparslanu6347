@@ -56,7 +56,7 @@ https://www.linkedin.com/in/alparslanu
 
 </p>
 
-## ⚙ DevOps Tools Used
+## <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> DevOps Tools Used
 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="52"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
