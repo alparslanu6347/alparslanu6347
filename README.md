@@ -55,8 +55,8 @@ https://www.linkedin.com/in/alparslanu
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="40"/> </a> 
 
 </p>
-
-## <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> DevOps Tools Used
+##
+<a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> DevOps Tools Used
 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="52"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
@@ -67,12 +67,12 @@ https://www.linkedin.com/in/alparslanu
 <a href="https://maven.apache.org/" target="blank"> <img src="https://miro.medium.com/max/1400/1*vBaeAw41XveYAWI7_mqGxg.jpeg" alt="maven" height="38"  /> </a>
 <a href="#" target="blank"> <img src="https://miro.medium.com/max/640/1*R0ltLPWJRdzgGf5mzQgOwQ.webp" alt="grafana" height="52"  /> </a>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alparslanu6347&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alparslanu6347&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alparslanu6347&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alparslanu6347&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
