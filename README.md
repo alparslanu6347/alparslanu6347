@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <a href="http://linkedin.com/in/alparslanu" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
 https://www.linkedin.com/in/alparslanu
-## 💻 Skills : 
+💻 Skills : 
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> 
@@ -55,8 +55,8 @@ https://www.linkedin.com/in/alparslanu
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="40"/> </a> 
 
 </p>
-##
-<a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> DevOps Tools Used
+
+## DevOps Tools Used <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> 
 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="52"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
