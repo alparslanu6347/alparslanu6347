@@ -2,7 +2,7 @@
 
 
 <!--
-**arslantobe/arslantobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alparslanu6347/alparslanu6347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>I'm Alparslan, a dedicated DevOps Engineer with a passion for exploring the boundless realms of technology. I'm on an exciting journey to master the intersections of cloud computing and DevOps methodologies, which deeply intrigues me. Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. The capacity of cloud technologies to reshape businesses, along with the streamlining of processes that DevOps offers, holds my keen interest. I have adopted the principle of continuous learning and self-development. I attach importance to innovation and team spirit, and focus on achieving success by working in a disciplined and efficient manner.</h2>
+<h2>I'm Arrow, a dedicated DevOps Engineer with a passion for exploring the boundless realms of technology. I'm on an exciting journey to master the intersections of cloud computing and DevOps methodologies, which deeply intrigues me. Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. The capacity of cloud technologies to reshape businesses, along with the streamlining of processes that DevOps offers, holds my keen interest. I have adopted the principle of continuous learning and self-development. I attach importance to innovation and team spirit, and focus on achieving success by working in a disciplined and efficient manner.</h2>
 
  <img align="right" alt="GIF" src="https://github.com/alparslanu6347/alparslanu6347/blob/main/devops-services.gif?raw=true" width="400" height="300" />
 
@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 -  DevOps Engineer | 1xAWS Certified | Terraform | Docker | Kubernetes | Ansible | Jenkins | Linux | Slack | Scrum/Kanban | SQL | Python | Leadership | Innovation | Analytical Thinking | Problem-Solving | Agile | Management
 -  I am happy to teach you what I know and eager to learn what you will offer
 -  Slowly and steadily, I'm trying to be better than yesterday😉
-- 🔭 I’m currently working on a mobile app
+- 🔭 I’m a AWS/DevOps Instructor/Mentor
 - 🌱 I’m currently learning Azure Cloud and Azure Devops
 - 🌱 I’m currently learning GitLab CICD
+-    I’m currently learning GitHub Actions
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 -  alparslanu6347@gmail.com
