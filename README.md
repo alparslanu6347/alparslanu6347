@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>I'm Arrow, a dedicated DevOps Engineer with a passion for exploring the boundless realms of technology. I'm on an exciting journey to master the intersections of cloud computing and DevOps methodologies, which deeply intrigues me. Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. The capacity of cloud technologies to reshape businesses, along with the streamlining of processes that DevOps offers, holds my keen interest. I have adopted the principle of continuous learning and self-development. I attach importance to innovation and team spirit, and focus on achieving success by working in a disciplined and efficient manner.</h2>
+<h2>I'm Alparslan, a passionate DevOps Engineer driven by curiosity and a love for technology. My journey centers on mastering the synergy between cloud computing and DevOps methodologies, with a strong focus on AWS services and modern DevOps tools. I’m inspired by how cloud technologies transform businesses and how DevOps streamlines processes. Committed to continuous learning and self-improvement, I value innovation, collaboration, and disciplined execution to achieve meaningful success.</h2>
 
  <img align="right" alt="GIF" src="https://github.com/alparslanu6347/alparslanu6347/blob/main/devops-services.gif?raw=true" width="400" height="300" />
 
