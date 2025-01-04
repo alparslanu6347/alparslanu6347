@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=855BF7&width=600&lines=Hi%2C+I'm+Alparslan;I'm+AWS+Solutions+Architect+%26+DevOps+Engineer;Love+to+learn+new+things+)](https://git.io/typing-svg)
 
-![Azure DevOps Certification](https://mygradez.com/wp-content/uploads/2024/11/Advantages-of-Azure-DevOps-certification.png)
+<img align="right" alt="GIF" src="https://github.com/alparslanu6347/alparslanu6347/blob/main/devops-services.gif?raw=true" width="400" height="300" />
 
 
 
