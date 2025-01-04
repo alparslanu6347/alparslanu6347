@@ -1,27 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=855BF7&width=600&lines=Hi%2C+I'm+Alparslan;I'm+AWS+Solutions+Architect+%26+DevOps+Engineer;Love+to+learn+new+things+)](https://git.io/typing-svg)
 
-![Azure DevOps Certification](https://mygradez.com/wp-content/uploads/2024/11/Advantages-of-Azure-DevOps-certification.png)
-
-
-
-<!--
-**alparslanu6347/alparslanu6347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
 
 <h2>I'm Alparslan, a passionate DevOps Engineer driven by curiosity and a love for technology. My journey centers on mastering the synergy between cloud computing and DevOps methodologies, with a strong focus on AWS services and modern DevOps tools. I’m inspired by how cloud technologies transform businesses and how DevOps streamlines processes. Committed to continuous learning and self-improvement, I value innovation, collaboration, and disciplined execution to achieve meaningful success.</h2>
 
