@@ -7,7 +7,6 @@
 
  
 
--  DevOps Engineer | 1xAWS Certified | Terraform | Docker | Kubernetes | Ansible | Jenkins | Linux | Slack | Scrum/Kanban | SQL | Python | Leadership | Innovation | Analytical Thinking | Problem-Solving | Agile | Management
 -  I am happy to teach you what I know and eager to learn what you will offer
 -  Slowly and steadily, I'm trying to be better than yesterday😉
 - 🔭 I’m a AWS/DevOps Instructor/Mentor
