@@ -21,6 +21,7 @@
 ## 🍔 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### AWS
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> 
@@ -36,7 +37,7 @@
 
 </p>
 
-## DevOps Tools Used <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> 
+### DevOps
 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="52"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
