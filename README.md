@@ -5,7 +5,8 @@
 
  <img align="right" alt="GIF" src="https://github.com/alparslanu6347/alparslanu6347/blob/main/devops-services.gif?raw=true" width="400" height="300" />
 
- 
+
+## 🪩 About Me
 
 -  I am happy to teach you what I know and eager to learn what you will offer
 -  Slowly and steadily, I'm trying to be better than yesterday😉
@@ -17,11 +18,9 @@
 - 📫  How to reach me: 
 -  alparslanu6347@gmail.com
 
-## :man: Social 
+## 🍔 My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<a href="http://linkedin.com/in/alparslanu" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
-https://www.linkedin.com/in/alparslanu
-💻 Skills : 
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo.png" alt="DevOps" height="40"/> </a> 
